@@ -78,9 +78,6 @@ python3 main.py
 
 ## External resources & AI assistance
 
-- AI assistance was used to help give example scenarios about the exercises,
-  code review, correct grammar, suggest modularisation, and draft README
-  and comments.
 - The three exercises are otherwise standard, well-known problem types
   (a simple stateful class, a grouping/aggregation problem, and a
   classic DSA sequence problem), implemented from first principles —
